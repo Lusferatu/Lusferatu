@@ -1,8 +1,8 @@
 ## Oiii eu sou Lusferatu, Estudante de cibersegurança
 
 <a href="https:github.com/lusferatu">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)" 
-<img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusferatu&count_private=true)"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusferatu&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
