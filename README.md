@@ -1,8 +1,8 @@
 ## Oiii eu sou Lusferatu, Estudante de cibersegurança
 
 <div>
-<a href="https:github.com/lusferatu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lusferatu)](https://github.com/anuraghazra/github-readme-stats)"
+<a href="https:github.com/Lusferatu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lusferatu)](https://github.com/Lusferatu/github-readme-stats)"
 
 
 <div style="display: inline_block"><br>
