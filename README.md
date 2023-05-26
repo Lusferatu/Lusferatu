@@ -2,7 +2,7 @@
 
 <div>
 <a href="https:github.com/Lusferatu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lusferatu&show_icons=true&theme=highcontrast)"
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lusferatu&count_private=true&show_icons=true&theme=highcontrast)"
 
 
 <div style="display: inline_block"><br>
