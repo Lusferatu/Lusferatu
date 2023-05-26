@@ -23,4 +23,4 @@
   <a href="https://www.instagram.com/lusferatu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/hirokikobayashi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
-  ![Snake animation] (https://github.com/Lusferatu/Lusferatu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lusferatu/Lusferatu/blob/output/github-contribution-grid-snake.svg)
